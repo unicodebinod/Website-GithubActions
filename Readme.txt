@@ -1,10 +1,9 @@
-Thanks for downloading this template!
+#HA: 02.03.2023
 
 Template Name: Moderna
 Template URL: https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/
 Author: BootstrapMade.com
 Licence: https://bootstrapmade.com/license/
-
 
 Steps1 :
 Von Bootstrap: Free Bootstrap Themes and Website Templates | Bootstrap Made
